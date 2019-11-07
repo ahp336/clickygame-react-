@@ -8,6 +8,6 @@
  If user clicks on the same image more than once, game is over and it is restated. 
  
  * Deploy link :
-  [Deploy Link]()
+  [Deploy Link](https://ahp336.github.io/deployclickygame/)
 
  UI and design of the site is still under works.
