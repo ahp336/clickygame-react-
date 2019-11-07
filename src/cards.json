@@ -1,42 +1,42 @@
 [
 {
     "id": 1,
-    "image": "https://raw.githubusercontent.com/krenaldi/clicky-game/master/public/images/family-guy-1.jpeg"
+    "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo.jpg"
   },
   {
     "id": 2,
-    "image": "https://raw.githubusercontent.com/krenaldi/clicky-game/master/public/images/family-guy-2.jpeg"
+    "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo1.jpg"
   },
   {
     "id": 3,
-    "image": "https://raw.githubusercontent.com/krenaldi/clicky-game/master/public/images/family-guy-3.jpeg"
+    "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo2.jpg"
   },
   {
     "id": 4,
-    "image": "https://raw.githubusercontent.com/krenaldi/clicky-game/master/public/images/family-guy-4.jpeg"
+    "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo3.jpg"
   },
   {
     "id": 5,
-    "image": "https://raw.githubusercontent.com/krenaldi/clicky-game/master/public/images/family-guy-5.jpeg"
+    "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo4.jpg"
   },
   {
     "id": 6,
-    "image": "https://raw.githubusercontent.com/krenaldi/clicky-game/master/public/images/family-guy-6.jpeg"
+    "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo5.jpg"
   },
   {
     "id": 7,
-    "image": "https://raw.githubusercontent.com/krenaldi/clicky-game/master/public/images/family-guy-7.jpeg"
+    "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo6.jpg"
   },
   {
     "id": 8,
-    "image": "https://raw.githubusercontent.com/krenaldi/clicky-game/master/public/images/family-guy-8.jpeg"
+    "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo7.jpg"
   },
   {
     "id": 9,
-    "image": "https://raw.githubusercontent.com/krenaldi/clicky-game/master/public/images/family-guy-9.jpeg"
+    "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo8.jpg"
   },
   {
     "id": 10,
-    "image": "https://raw.githubusercontent.com/krenaldi/clicky-game/master/public/images/family-guy-10.jpeg"
+    "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo9.jpg"
   }
 ]
