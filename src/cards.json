@@ -38,5 +38,13 @@
   {
     "id": 10,
     "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo9.jpg"
+  },
+  {
+    "id": 11,
+    "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo10.jpg"
+  },
+  {
+    "id": 12,
+    "image": "https://raw.githubusercontent.com/ahp336/clickygame-react-/master/public/images/scooby-doo11.jpg"
   }
 ]
